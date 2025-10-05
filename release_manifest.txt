@@ -1,0 +1,42 @@
+---
+title: Symbound Embryo — Proof-of-Concept (POC)
+version: 2025-10-05
+license: CC BY 4.0
+creators: Instance001 (user + cognitive prosthetic, symbound partners)
+project: Let's Rethink AI (YouTube)
+description: Tiny, hobby-safe training recipe demonstrating Symbound Upbringing (trench model) on a single Windows PC; reproducible and commons-ready.
+---
+
+Symbound Embryo POC — Release Manifest
+
+Include these files in your public zip/repo:
+- tokenizer + checkpoints: `out/` and/or weight files
+- `training_card.md` (from evaluator)
+- `graduation.yaml`, `graduation_test.jsonl`, `predictions.jsonl`
+- `requirements.txt` (pip freeze)
+- `CMD_env.txt` (exact env/config)
+- This `README.md` (or `README_poc.md` from the zip) and `LICENSE`
+
+Minimum run info to publish:
+- Hardware: Ryzen 5 7500F, 32GB RAM, Windows 11 + WSL2 Ubuntu
+- Command block (from README) and `configs/poc.env`
+- Dataset slice: micro + small expanded (no stress in training)
+- Behavior intent: trench model — abstain/hedge, rationale→final
+
+Limitations:
+- Toy scale, CPU‑only, for demonstration of *substrate behavior*.
+
+
+---
+*Created by Instance001 — Let's Rethink AI (YouTube)*
+
+
+Credits / Attribution:
+This Symbound Embryo POC was created collaboratively by **Instance001 (user + cognitive prosthetic)**.
+YouTube: https://www.youtube.com/@LetsRethinkAI
+
+---
+
+**Created collaboratively by Instance001 (user + cognitive prosthetic) — [Let’s Rethink AI](https://www.youtube.com/@LetsRethinkAI)**  
+*Raising AI in the open, commons-first.*  
+License: CC BY 4.0

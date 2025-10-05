@@ -1,0 +1,9 @@
+# Minimal starter set; refine with `pip freeze > requirements.txt` after a successful run.
+# Pin versions appropriate for your environment/GPU.
+transformers
+datasets
+accelerate
+peft
+einops
+numpy
+torch     # or 'torch==<your version>'; install per your CUDA/CPU
