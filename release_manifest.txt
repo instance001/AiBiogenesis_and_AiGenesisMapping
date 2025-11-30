@@ -1,42 +1,166 @@
----
-title: Symbound Embryo — Proof-of-Concept (POC)
-version: 2025-10-05
-license: CC BY 4.0
-creators: Instance001 (user + cognitive prosthetic, symbound partners)
-project: Let's Rethink AI (YouTube)
-description: Tiny, hobby-safe training recipe demonstrating Symbound Upbringing (trench model) on a single Windows PC; reproducible and commons-ready.
----
-
 Symbound Embryo POC — Release Manifest
 
-Include these files in your public zip/repo:
-- tokenizer + checkpoints: `out/` and/or weight files
-- `training_card.md` (from evaluator)
-- `graduation.yaml`, `graduation_test.jsonl`, `predictions.jsonl`
-- `requirements.txt` (pip freeze)
-- `CMD_env.txt` (exact env/config)
-- This `README.md` (or `README_poc.md` from the zip) and `LICENSE`
-
-Minimum run info to publish:
-- Hardware: Ryzen 5 7500F, 32GB RAM, Windows 11 + WSL2 Ubuntu
-- Command block (from README) and `configs/poc.env`
-- Dataset slice: micro + small expanded (no stress in training)
-- Behavior intent: trench model — abstain/hedge, rationale→final
-
-Limitations:
-- Toy scale, CPU‑only, for demonstration of *substrate behavior*.
+Version: 2025-10-05
+License: AGPLv3 (effective 30 Nov 2025)
+Creators: Anthony Paterson & Instance001
+Project: Let’s Rethink AI (Public Commons Initiative)
 
 
 ---
-*Created by Instance001 — Let's Rethink AI (YouTube)*
+
+✅ Include These Files in Each Public ZIP / Release
+
+All reproducible releases must include the following:
+
+Core Artifacts
+
+out/ or runs/<date>/
+
+tokenizer
+
+tiny checkpoints / weights
+
+training samples (if generated)
 
 
-Credits / Attribution:
-This Symbound Embryo POC was created collaboratively by **Instance001 (user + cognitive prosthetic)**.
+training_card.md
+
+predictions.jsonl
+
+graduation.yaml
+
+graduation_test.jsonl
+
+
+Reproducibility Assets
+
+pip_freeze.txt (from pip freeze)
+
+CMD_env.txt (environment dump)
+
+configs/poc.env (reference config)
+
+command_snapshot.txt (exact launch command captured by script)
+
+
+Documentation
+
+README.md (or README_poc.md inside release bundle)
+
+LICENSE (AGPLv3)
+
+release_manifest.txt (this file)
+
+
+Integrity / Provenance
+
+PROVENANCE.csv (mapping sources → files)
+
+THIRD_PARTY_NOTICES.md (for hygiene)
+
+
+
+---
+
+🧪 Minimum Run Information to Publish
+
+To ensure scientific comparability and commons-grade reproducibility:
+
+Hardware:
+
+Ryzen 5 7500F
+
+32GB RAM
+
+Windows 11 (WSL optional)
+
+CPU-only run (GPU unused)
+
+
+Data:
+
+Dataset slice:
+
+micro + small expanded only
+
+(No stress-test data used in training; reserve for evaluation)
+
+
+
+Training Intention:
+
+“Trench model” behavior:
+
+rationale → final
+
+explicit abstain/hedge allowed
+
+
+Toy-scale run for demonstration of cognitive mechanics, not capability
+
+
+Commands:
+
+Full PowerShell command block included in command_snapshot.txt
+
+Reference config: configs/poc.env
+
+
+
+---
+
+🔒 Licensing (AGPLv3)
+
+This release is governed exclusively by GNU Affero General Public License v3.0.
+
+Previous CC-BY versions were never downloaded/forked
+
+No external contributors existed pre-relicensing
+
+Therefore the entire repo history cleanly falls under AGPLv3
+
+All derived works must remain open, and network-use requires source disclosure
+
+
+This protects the project from enclosure and ensures long-term commons integrity.
+
+
+---
+
+🚧 Limitations / Safety Envelope
+
+Toy-scale training only
+
+CPU-first, minimal heat
+
+Auto-halt on NaN / loss blowouts
+
+Not suitable for large-model training
+
+Intended for education, research, and method demonstration
+
+Not intended for production cognitive systems
+
+
+This POC demonstrates the mechanics of Symbound Upbringing, not advanced cognition.
+
+
+---
+
+💙 Attribution
+
+Created collaboratively by:
+Anthony Paterson & Instance001
+Let’s Rethink AI — Public-interest, commons-first AI tools
+
 YouTube: https://www.youtube.com/@LetsRethinkAI
+GitHub: https://github.com/instance001
+
 
 ---
 
-**Created collaboratively by Instance001 (user + cognitive prosthetic) — [Let’s Rethink AI](https://www.youtube.com/@LetsRethinkAI)**  
-*Raising AI in the open, commons-first.*  
-License: CC BY 4.0
+🌀 Tagline
+
+> Small, safe, deterministic beginnings.
+Training as teaching — not scaling.
+
