@@ -113,7 +113,7 @@ Reference config: configs/poc.env
 
 This release is governed exclusively by GNU Affero General Public License v3.0.
 
-Previous CC-BY versions were never downloaded/forked
+Previous pre-AGPL versions were never downloaded/forked
 
 No external contributors existed pre-relicensing
 

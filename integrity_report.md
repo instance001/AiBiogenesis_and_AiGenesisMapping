@@ -1,4 +1,4 @@
-Integrity Report (Updated for AGPLv3 Transition)
+﻿Integrity Report (Updated for AGPLv3 Transition)
 
 Generated: 2025-10-05T04:20:47.662482Z
 This report reflects the corrected licensing, updated manifest, and the new Symbound POC documentation stack.
@@ -149,7 +149,7 @@ https://www.youtube.com/@LetsRethinkAI
 
 AGPL License declared
 
-All CC-BY-4.0 remnants removed
+All pre-AGPL license remnants removed
 
 
 The manifest now passes all checks.
@@ -161,7 +161,7 @@ The manifest now passes all checks.
 
 All previous issues about:
 
-“license: CC BY 4.0”
+“license: AGPL-3.0”
 
 missing AGPL references
 

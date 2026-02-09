@@ -1,4 +1,4 @@
-{
+﻿{
   "timestamp": "2025-10-05T04:20:47.662482Z",
   "root": "/mnt/data/symbound_embryo_poc_final/symbound_embryo_poc",
   "required": {
@@ -39,7 +39,7 @@
   "manifest_check": {
     "expected_count": 18,
     "missing": [
-      "license: CC BY 4.0",
+      "license: AGPL-3.0",
       "description: Tiny, hobby-safe training recipe demonstrating Symbound Upbringing (trench model) on a single Windows PC; reproducible and commons-ready.",
       "Include these files in your public zip/repo:",
       "- tokenizer + checkpoints: `out/` and/or weight files",
@@ -56,11 +56,11 @@
       "YouTube: https://www.youtube.com/@LetsRethinkAI",
       "**Created collaboratively by Instance001 (user + cognitive prosthetic) \u2014 [Let\u2019s Rethink AI](https://www.youtube.com/@LetsRethinkAI)**",
       "*Raising AI in the open, commons-first.*",
-      "License: CC BY 4.0"
+      "License: AGPL-3.0"
     ]
   },
   "problems": [
-    "Manifest listed but not present: license: CC BY 4.0",
+    "Manifest listed but not present: license: AGPL-3.0",
     "Manifest listed but not present: description: Tiny, hobby-safe training recipe demonstrating Symbound Upbringing (trench model) on a single Windows PC; reproducible and commons-ready.",
     "Manifest listed but not present: Include these files in your public zip/repo:",
     "Manifest listed but not present: - tokenizer + checkpoints: `out/` and/or weight files",
@@ -77,6 +77,6 @@
     "Manifest listed but not present: YouTube: https://www.youtube.com/@LetsRethinkAI",
     "Manifest listed but not present: **Created collaboratively by Instance001 (user + cognitive prosthetic) \u2014 [Let\u2019s Rethink AI](https://www.youtube.com/@LetsRethinkAI)**",
     "Manifest listed but not present: *Raising AI in the open, commons-first.*",
-    "Manifest listed but not present: License: CC BY 4.0"
+    "Manifest listed but not present: License: AGPL-3.0"
   ]
 }
