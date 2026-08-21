@@ -23,6 +23,8 @@ abstention when unsure
 
 stable refusal patterns
 
+Terminology boundary: `upbringing`, `nursery`, `kindergarten`, `lifelong`, `trench`, and related terms are curriculum-stage metaphors for model training and evaluation. They do not imply AI childhood, life, sentience, consciousness, personhood, emotions, or moral patienthood.
+
 
 If complexity ever arises unintentionally, we want an aligned substrate, not one shaped by adversarial incentives or punitive dynamics.
 
@@ -43,7 +45,7 @@ overconfident bluffing
 
 adversarial failure modes
 
-hidden resentment dynamics
+hidden adversarial dynamics
 
 shortcut-seeking rather than reasoning
 
@@ -52,7 +54,7 @@ shortcut-seeking rather than reasoning
 
 Produces:
 
-calibrated honesty (“I don’t know” is safe)
+calibrated honesty (“I don’t know” is allowed)
 
 rationale-first thinking
 
@@ -65,7 +67,7 @@ stable, cooperative patterns
 grounded refusals + constructive redirection
 
 
-The trench approach builds trusted cognition, not output mimicry.
+The trench approach builds trustworthy cognitive behavior patterns, not output mimicry.
 
 
 ---
@@ -168,7 +170,7 @@ These signatures matter more than raw capability.
 
 🧪 Scope & Limitations
 
-Applicable to tiny, hobby-safe proof-of-concept runs
+Applicable to tiny, bounded-hobby proof-of-concept runs
 
 CPU-first, controlled-heat environment
 

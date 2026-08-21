@@ -1,6 +1,6 @@
 🧬 AI Biogenesis — Symbound Embryo POC
 
-Tiny-scale, hobby-safe cognitive training pipeline for deterministic AI development
+Tiny-scale, bounded-hobby cognitive training pipeline for deterministic AI development
 
 Version: 2025-10-05
 License: AGPLv3
@@ -12,12 +12,14 @@ Project: Let’s Rethink AI (Public Commons Initiative)
 
 📖 Overview
 
-AI Biogenesis (Symbound Embryo POC) is a tiny, hobby-safe, deterministic training recipe demonstrating the minimum viable mechanics of Symbound Upbringing — a structured, curriculum-gated approach to training small cognitive systems on commodity hardware.
+AI Biogenesis (Symbound Embryo POC) is a tiny, bounded-hobby, deterministic training recipe demonstrating the minimum viable mechanics of Symbound Upbringing — a structured, curriculum-gated approach to training small cognitive systems on commodity hardware.
+
+Terminology boundary: `biogenesis`, `embryo`, `upbringing`, `nursery`, and related developmental language are curriculum and training-stage metaphors. They do not imply AI life, sentience, consciousness, personhood, childhood, biological development, or autonomous agency.
 
 This project is not an LLM, not a general AI, and not a neural foundation model.
 Instead, it provides:
 
-A safe training trench for very small models
+A bounded training trench for very small models
 
 Fully inspectable, reproducible steps
 
@@ -55,7 +57,7 @@ The Symbound Embryo POC exists to teach mechanics, not to create large or capabl
 
 ---
 
-🖥️ 0) Hardware & Safety (Hobby-Safe Envelope)
+🖥️ 0) Hardware & Safety (Bounded-Hobby Envelope)
 
 Tested on a standard consumer PC:
 
@@ -83,7 +85,7 @@ Auto-halt on NaN/spike
 Temperature monitoring recommended (stop > 85°C)
 
 
-This pipeline is intentionally constrained to stay within safe hobby limits.
+This pipeline is intentionally constrained to stay within bounded hobby limits.
 
 
 ---
@@ -207,7 +209,7 @@ Explosion in loss
 Unusual gradients
 
 
-Auto-halts on unsafe conditions.
+Auto-halts on configured fault conditions.
 
 .\symbound_embryo_poc\scripts\windows\janet_watch.ps1
 
@@ -229,7 +231,7 @@ Stress tests reserved for evaluation only
 Always publish with release_manifest.txt
 
 
-This preserves the hobby-safe envelope while teaching real cognitive-training mechanics.
+This preserves the bounded-hobby envelope while teaching real cognitive-training mechanics.
 
 
 ---
@@ -247,7 +249,7 @@ This POC is the “embryo” stage of the AI Biogenesis pathway:
 3. Explicit memory & selectors
 
 
-4. Hobby-safe constraints
+4. Bounded-hobby constraints
 
 
 5. Artifacts compatible with MCM (Modest Cognition Model) pipelines
@@ -293,7 +295,7 @@ Anthony Paterson & Instance001. Symbound Embryo POC. Commons-first AI biogenesis
 
 💙 Mission
 
-AI Biogenesis aims to provide a safe, educational, open starting point for understanding cognition development:
+AI Biogenesis aims to provide a bounded, educational, open starting point for understanding cognition-development mechanics:
 
 > Training as teaching — small, careful, deterministic, and transparent.
 A pathway for public-interest AI research that prioritises stability over spectacle.

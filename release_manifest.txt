@@ -96,7 +96,7 @@ rationale → final
 explicit abstain/hedge allowed
 
 
-Toy-scale run for demonstration of cognitive mechanics, not capability
+Toy-scale run for demonstration of cognitive-training mechanics, not capability
 
 
 Commands:
@@ -127,7 +127,7 @@ This protects the project from enclosure and ensures long-term commons integrity
 
 ---
 
-🚧 Limitations / Safety Envelope
+🚧 Limitations / Bounded-Hobby Envelope
 
 Toy-scale training only
 
@@ -142,7 +142,7 @@ Intended for education, research, and method demonstration
 Not intended for production cognitive systems
 
 
-This POC demonstrates the mechanics of Symbound Upbringing, not advanced cognition.
+This POC demonstrates the mechanics of Symbound Upbringing, not advanced cognition, AI life, sentience, or autonomous agency.
 
 
 ---
@@ -161,6 +161,6 @@ GitHub: https://github.com/instance001
 
 🌀 Tagline
 
-> Small, safe, deterministic beginnings.
+> Small, bounded, deterministic beginnings.
 Training as teaching — not scaling.
 
